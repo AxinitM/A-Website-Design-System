@@ -28,6 +28,12 @@ It includes defined **color palettes**, **typography styles**, and **button stat
 
 ---
 
+## Screenshot
+
+![](screenshot.png)
+
+---
+
 ## Project Goals
 
 - Build a personal website design system for future projects.
@@ -45,12 +51,6 @@ It includes defined **color palettes**, **typography styles**, and **button stat
 - 💡 **Custom CSS Variables** — All colors, font sizes, and spacing defined via CSS variables for maintainability.  
 - 📱 **Responsive Design Foundation** — Flexible layout prepared for adaptive scaling.  
 - ⚡ **Fast Loading Fonts** — Optimized with `<link rel="preload">` and `noscript` fallback.
-
----
-
-## Screenshot
-
-![](screenshot.png)
 
 ---
 
