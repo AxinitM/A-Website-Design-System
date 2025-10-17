@@ -57,8 +57,8 @@ It includes defined **color palettes**, **typography styles**, and **button stat
 ## Links
 
 - **Project Description:** [Codecademy Challenge Project](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-improved-styling-with-css/tracks/fecj-22-improved-styling-with-css/modules/wdcp-22-build-a-website-design-system-c09e9da3-4b42-409f-8aa2-470c801d653b/projects/independent-project-web-design-system)
-- **Live Demo:** [Add live site URL here](https://your-live-site-url.com)
-- **Source Code:** [Add GitHub repository URL here](https://github.com/your-username/website-design-system)
+- **Live Demo:** [[Add live site URL here](https://axinitm.github.io/A-Website-Design-System/)]
+- **Source Code:** [[Add GitHub repository URL here](https://github.com/AxinitM/A-Website-Design-System)]
 
 ---
 
