@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <meta name="theme-color" content="#faf9fd" /> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="icon" type="image/x-icon" href="favicon-32x32.png" />
+
+    <title>A Website Design System</title>
+
+    <meta
+      name="description"
+      content="A Website Design System is a modern collection of UI components, typography rules, and color styles designed to build consistent, responsive, and visually appealing web interfaces."
+    />
+
+    <meta
+      name="keywords"
+      content="design system, UI kit, web design, front-end, style guide, typography, color palette, components, responsive design, UX"
+    />
+
+    <meta name="author" content="Andrei Martinenko" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="A Website Design System" />
+    <meta
+      property="og:description"
+      content="A modern design system and UI component library for building cohesive, elegant, and adaptive web interfaces."
+    />
+    <meta property="og:type" content="website" />
+
+    <!-- === Google Fonts === -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz@10..72&family=Outfit&display=swap"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz@10..72&family=Outfit&display=swap"
+      rel="stylesheet"
+      media="all"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz@10..72&family=Outfit&display=swap"
+        rel="stylesheet"
+      />
+    </noscript>
+
+    
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div id="main-container">
+      <header id="main-header">
+        <h1>Modern Wed Design System</h1>
+      </header>
+
+      <!-- Colors' section -->
+      <main>
+        <section id="colors-container">
+          <h2>COLORS</h2>
+
+          <article id="colors-article" class="color-palette">
+            <section class="color-swatch golden-clr-sec">
+              <div class="color-block">
+                <p>#D5966C</p>
+              </div>
+              <p><span>RGB</span> 213, 150, 108</p>
+              <p><span>HSV</span> 24°, 49%, 84%</p>
+            </section>
+
+            <section class="color-swatch black-clr-sec">
+              <div class="color-block">
+                <p>#151515</p>
+              </div>
+              <p><span>RGB</span> 21, 21, 21</p>
+              <p><span>HSV</span> 0°, 0%, 8%</p>
+            </section>
+
+            <section class="color-swatch grey-clr-sec">
+              <div class="color-block">
+                <p>#444444</p>
+              </div>
+              <p><span>RGB</span> 68, 68, 68</p>
+              <p><span>HSV</span> 0°, 0%, 27%</p>
+            </section>
+
+            <section class="color-swatch white-clr-sec">
+              <div class="color-block">
+                <p>#FFFFFF</p>
+              </div>
+              <p><span>RGB</span> 255, 255, 255</p>
+              <p><span>HSV</span> 0°, 0%, 100%</p>
+            </section>
+          </article>
+        </section>
+
+        <!-- Typography section -->
+
+        <section id="typography-container">
+          <h2>Typography</h2>
+          <div class="typography-grid">
+            <!-- Headers section / left side  typography's container-->
+
+            <section class="typography-left">
+              <article class="typography-block">
+                <header>
+                  <h3>Heading (XL)</h3>
+                  <p>Big Shoulders Black 96px</p>
+                  <p>88px Line Spacing</p>
+                </header>
+                <p class="heading-XL uppercase-letters">
+                  Morbi in sem placerat
+                </p>
+              </article>
+
+              <article class="typography-block">
+                <header>
+                  <h3>Heading (L)</h3>
+                  <p>Big Shoulders Black 70px</p>
+                  <p>70px Line Spacing</p>
+                </header>
+                <p class="heading-L uppercase-letters">
+                  Praesent dapibus neque id cursus
+                </p>
+              </article>
+
+              <article class="typography-block">
+                <header>
+                  <h3>Heading (M)</h3>
+                  <p>Big Shoulders Black 60px</p>
+                  <p>60px Line Spacing</p>
+                </header>
+                <p class="heading-M uppercase-letters">
+                  Phasellus ultrices nulla quis nibh
+                </p>
+              </article>
+
+              <article class="typography-block">
+                <header>
+                  <h3>Heading (S)</h3>
+                  <p>Big Shoulders Black 36px</p>
+                  <p>36px Line Spacing</p>
+                </header>
+                <p class="heading-S uppercase-letters">
+                  Nam nulla quam gravida non commodo a sodales sit
+                </p>
+              </article>
+            </section>
+
+            <!-- Paragraph section / right side  typography's container -->
+            <section class="typography-right">
+              <article class="typography-block">
+                <header>
+                  <h3>Body (M)</h3>
+                  <p>Outfit Light 22px</p>
+                  <p>32px Line Spacing</p>
+                </header>
+
+                <p class="paragraph-M">
+                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                  Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In
+                  nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed
+                  pretium, ligula sollicitudin laoreet viverra, tortor libero
+                  sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis.
+                  Ut justo. Suspendisse potenti.
+                </p>
+                <p class="paragraph-M">
+                  Sed egestas, ante et vulputate volutpat, eros pede semper est,
+                  vitae luctus metus libero eu augue. Morbi purus libero,
+                  faucibus adipiscing, commodo quis, gravida id, est. Sed
+                  lectus. Praesent elementum hendrerit tortor. Sed semper lorem
+                  at felis. Vestibulum volutpat, lacus a ultrices sagittis.
+                </p>
+              </article>
+
+              <article class="typography-block">
+                <header>
+                  <h3>Body (S)</h3>
+                  <p>Outfit Light 18px</p>
+                  <p>28px Line Spacing</p>
+                </header>
+                <p class="paragraph-S">
+                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                  Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In
+                  nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed
+                  pretium, ligula sollicitudin laoreet viverra, tortor libero
+                  sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis.
+                  Ut justo. Suspendisse potenti.
+                </p>
+              </article>
+            </section>
+          </div>
+        </section>
+
+        <!-- Buttons section -->
+        <section id="buttons-container">
+          <h2>Buttons / Links</h2>
+          <div class="buttons-grid">
+            <!-- Primary Button -->
+            <div class="button-group">
+              <header>
+                <h3>Primary</h3>
+              </header>
+              <button class="btn btn-primary">Default</button>
+              <button class="btn btn-primary hover">Hover</button>
+              <button class="btn btn-primary active">Active</button>
+              <button class="btn btn-primary" disabled>Disabled</button>
+            </div>
+
+            <!-- Secondary Button -->
+            <div class="button-group">
+              <h3>Secondary</h3>
+              <button class="btn btn-secondary">Default</button>
+              <button class="btn btn-secondary hover">Hover</button>
+              <button class="btn btn-secondary active">Active</button>
+              <button class="btn btn-secondary" disabled>Disabled</button>
+            </div>
+
+            <!-- Outline Button -->
+            <div class="button-group">
+              <h3>Outline</h3>
+              <button class="btn btn-outline">Default</button>
+              <button class="btn btn-outline hover">Hover</button>
+              <button class="btn btn-outline active">Active</button>
+              <button class="btn btn-outline" disabled>Disabled</button>
+            </div>
+
+            <!-- Text Button -->
+            <div class="button-group">
+              <h3>Text</h3>
+              <button class="btn btn-text">Default</button>
+              <button class="btn btn-text hover">Hover</button>
+              <button class="btn btn-text active">Active</button>
+              <button class="btn btn-text" disabled>Disabled</button>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
