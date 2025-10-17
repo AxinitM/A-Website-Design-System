@@ -8,7 +8,6 @@ The goal of this project was to create a **personal website design system** — 
 
 ## Table of contents
 
-- [A Website Design System / Codecademy](#a-website-design-system--codecademy)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
   - [Screenshot](#screenshot)
