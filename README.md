@@ -8,7 +8,6 @@ The goal of this project was to create a **personal website design system** — 
 
 ## Table of contents
 
-  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Project Goals](#project-goals)
