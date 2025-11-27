@@ -8,16 +8,14 @@ The goal of this project was to create a **personal website design system** — 
 
 ## Table of contents
 
-- [A Website Design System / Codecademy](#a-website-design-system--codecademy)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Project Goals](#project-goals)
-  - [Features](#features)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built With](#built-with)
-  - [Author](#author)
-  - [License](#license)
+- [Overview](#overview)
+- [Project Goals](#project-goals)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built With](#built-with)
+- [Author](#author)
+- [License](#license)
 
 ---
 
@@ -57,7 +55,7 @@ It includes defined **color palettes**, **typography styles**, and **button stat
 ## Links
 
 - **Project Description:** [Codecademy Challenge Project](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-improved-styling-with-css/tracks/fecj-22-improved-styling-with-css/modules/wdcp-22-build-a-website-design-system-c09e9da3-4b42-409f-8aa2-470c801d653b/projects/independent-project-web-design-system)
-- **Live Demo:** [Add live site URL here](https://your-live-site-url.com)
+- **Live Demo:** [Live page URL](https://axinitm.github.io/A-Website-Design-System/)
 - **Source Code:** [Add GitHub repository URL here](https://github.com/your-username/website-design-system)
 
 ---
@@ -84,3 +82,4 @@ It includes defined **color palettes**, **typography styles**, and **button stat
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
